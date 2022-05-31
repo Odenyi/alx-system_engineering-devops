@@ -1,2 +1,2 @@
 #!/bin/bash
-Ascript that creates an alias ls
+Ascript that creates an alias ls\n
