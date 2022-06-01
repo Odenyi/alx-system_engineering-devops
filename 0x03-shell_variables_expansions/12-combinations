@@ -1,2 +1,2 @@
 #!/bin/bash
-fkd;a;l
+echo {a..z}{a..z} | grep -v "oo"
