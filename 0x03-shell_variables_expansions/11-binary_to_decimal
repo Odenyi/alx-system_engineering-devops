@@ -1,2 +1,2 @@
 #!/bin/bash
-fjiree
+echo $(( 2#$BINARY ))
