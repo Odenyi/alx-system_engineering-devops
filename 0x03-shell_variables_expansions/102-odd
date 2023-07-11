@@ -1,2 +1,2 @@
 #!/bin/bash
-wowoeweo
+perl -ne 'print ((1 == $. % 2) ? $_ : "")' 
